@@ -2,6 +2,8 @@
 
 Author: Prasanna Acharya
 
+Web-scrapy helps to scrape the contents of a web page with specific tag.
+
 ## Installation
 
 1. Clone the git repository locally
